@@ -1,0 +1,9 @@
+div {
+    height: 200px;
+    width: 200px;
+    border: 15px groove hotpink;
+    margin: 5px;
+    border-radius: 50%;
+    display: inline-block;
+    background-image: url("pix.jpg");
+}
